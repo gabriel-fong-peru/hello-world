@@ -1,4 +1,4 @@
 # hello-world
-troyan virus
-do not try it at home
+troyan virus\n
+do not try it at home\n
 too dangerous
